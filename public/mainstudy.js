@@ -68,6 +68,9 @@ function displayQuestion() {
     imageElement.src =
       "img/" +
       data2DArray[questionOrder[questionOrderRow][currentQuestionIndex]][1];
+    console.log(
+      data2DArray[questionOrder[questionOrderRow][currentQuestionIndex]][1]
+    );
     imageElement.alt = "Chart";
     imageElement.style.width = "auto"; // Set the desired width
     imageElement.style.height = "600px"; // Set the desired height
