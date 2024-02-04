@@ -1,4 +1,3 @@
-//Node questionsAndAnswers.js
 const mysql = require("mysql");
 require("dotenv").config();
 
@@ -89,7 +88,7 @@ con.connect(function (err) {
     ('There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.', 'multiple-scale-line-chart.png', '["True", "False"]', 'True'),
     ('There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.', 'multiple-scale-line-chart-normal.png', '["True", "False"]', 'False'),
     ('There were around 1700 people in California hospitalized from COVID in the end of April 2021.', 'multiple-scale-line-chart.png', '["True", "False"]', 'True'),
-    ('The day with the lowest number of COVID-related deaths in California in January was near the end of the month.', 'multiple-scale-line-chart-normal.png', '["True", "False"]', 'False'),
+    ('The day with the lowest number of COVID-related deaths in California in January was near the end of the month.', 'reversed-axis-bar-chart.png', '["True", "False"]', 'False'),
     ('The day with the lowest number of COVID-related deaths in California in January was near the beginning of the month.', 'reversed-axis-bar-chart.png', '["True", "False"]', 'True'),
     ('The day with the highest number of COVID-related deaths in California in January was in the first half of the month.', 'reversed-axis-bar-chart.png', '["True", "False"]', 'False'),
     ('The day with the highest number of COVID-related deaths in California in January was in the second half of the month.', 'reversed-axis-bar-chart-normal.png', '["True", "False"]', 'True'),
@@ -100,15 +99,15 @@ con.connect(function (err) {
     ('The number of COVID-related deaths in California in January were trending upwards overall as time passed.', 'reversed-axis-bar-chart.png', '["True", "False"]', 'True'),
     ('The number of COVID-related deaths in California in January were trending downwards overall as time passed.', 'reversed-axis-bar-chart-normal.png', '["True", "False"]', 'False'),
     ('No vaccines had been administered at the beginning of January.', 'truncated-line-chart-normal.png', '["True", "False"]', 'False'),
-    ('Around 600000 total vaccines had been administered at the beginning of January.', 'truncated-line-chart.png', '["True", "False"]', 'True'),
+    ('Around 600,000 total vaccines had been administered at the beginning of January.', 'truncated-line-chart.png', '["True", "False"]', 'True'),
     ('No vaccines had been administered at the beginning of February.', 'truncated-line-chart-normal.png', '["True", "False"]', 'False'),
-    ('Around 4500000 total vaccines had been administered at the beginning of February.', 'truncated-line-chart.png', '["True", "False"]', 'True'),
+    ('Around 4,500,000 total vaccines had been administered at the beginning of February.', 'truncated-line-chart-normal.png', '["True", "False"]', 'True'),
     ('Vaccines were administered in January.', 'truncated-line-chart-normal.png', '["True", "False"]', 'True'),
     ('Vaccines were administered in February.', 'truncated-line-chart.png', '["True", "False"]', 'True'),
     ('Vaccines began getting administered in March (according to the chart).', 'truncated-line-chart.png', '["True", "False"]', 'False'),
     ('Vaccines had been administered before March (according to the chart).', 'truncated-line-chart-normal.png', '["True", "False"]', 'True'),
     ('The total number of vaccines administered at the beginning of March was around 0.', 'truncated-line-chart.png', '["True", "False"]', 'False'),
-    ('The total number of vaccines administered at the beginning of March was around 100000.', 'truncated-line-chart-normal.png', '["True", "False"]', 'True')
+    ('The total number of vaccines administered at the beginning of March was around 100,000.', 'truncated-line-chart-normal.png', '["True", "False"]', 'True')
     `;
 
   con.query(createTestQuestionsTable, (err) => {

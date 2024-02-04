@@ -14,6 +14,17 @@ mysql_secure_installation
 
 follow instructions to set a password
 
+
+SET UP .ENV
+Create .env file to store your MySQL credentials:
+
+```
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=mydb
+```
+
 run createDatabase.js to connect to MySQL and create database
 
 ```
@@ -26,16 +37,6 @@ if "Error connecting to MySQL: Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does no
 mysql -u root -p //then enter password as prompted
 mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'YourPassword';
 mysql> exit;
-```
-
-SET UP .ENV
-Create .env file to store your MySQL credentials:
-
-```
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=
-DB_NAME=mydb
 ```
 
 ```
