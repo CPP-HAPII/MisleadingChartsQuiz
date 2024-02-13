@@ -173,16 +173,15 @@ function storeQuestionsInArray() {
 
 // Function to check the answer and proceed to the next question
 async function checkAnswer() {
-  let selectedOption = (currentAnswer.value = document.querySelector(
-    'input[name="answer"]:checked'
-  ).value);
-
-  console.log(currentAnswer.value);
+  let selectedOption = document.querySelector('input[name="answer"]:checked');
 
   if (!selectedOption) {
     alert("Please select an answer.");
     return;
   }
+
+  currentAnswer.value = selectedOption;
+  console.log(currentAnswer.value);
 
   try {
     const responseSubmit = await fetch("/submit-response", {
