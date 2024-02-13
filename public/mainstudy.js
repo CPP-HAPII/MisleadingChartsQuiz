@@ -173,14 +173,16 @@ function storeQuestionsInArray() {
 
 // Function to check the answer and proceed to the next question
 async function checkAnswer() {
-  let selectedOption = document.querySelector('input[name="answer"]:checked');
-
-  if (!selectedOption) {
+  if (!document.querySelector('input[name="answer"]:checked')) {
     alert("Please select an answer.");
+    currentAnswer.value = null;
     return;
+  } else {
+    currentAnswer.value = document.querySelector(
+      'input[name="answer"]:checked'
+    ).value;
   }
 
-  currentAnswer.value = selectedOption;
   console.log(currentAnswer.value);
 
   try {
@@ -191,10 +193,10 @@ async function checkAnswer() {
       },
       body: JSON.stringify({
         userId,
-        userAnswer: selectedOption,
+        userAnswer: currentAnswer.value,
         questionNumber: currentQuestionId + 1,
         question: currentQuestion.value.substring(0, 100),
-        isCorrect: selectedOption === currentCorrectAnswer,
+        isCorrect: currentAnswer.value === currentCorrectAnswer,
       }),
     });
 

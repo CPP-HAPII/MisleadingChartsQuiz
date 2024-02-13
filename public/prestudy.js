@@ -18,7 +18,7 @@ var inputElement = document.getElementById("inputText");
 let currentQuestionIndex = 0;
 let userAnswer;
 export let currentQuestion = { value: "" };
-export let currentAnswer = { value: "" };
+export let currentAnswer = { value: null };
 export let prestudyQuestions = [
   ["What's your age?", null],
   ["What's your major?", null],
@@ -93,11 +93,12 @@ async function recordPrestudyResponse() {
 
   if (!inputValue) {
     alert("Please enter an answer.");
+    currentAnswer.value = null;
     return;
+  } else {
+    currentAnswer.value = inputValue;
   }
-  console.log(inputValue);
-
-  userAnswer = currentAnswer.value = inputValue;
+  console.log(currentAnswer.value);
 
   try {
     const responseSubmit = await fetch("/submit-prestudy-response", {
@@ -107,7 +108,7 @@ async function recordPrestudyResponse() {
       },
       body: JSON.stringify({
         userId,
-        userAnswer,
+        userAnswer: currentAnswer.value,
         question: currentQuestion.value.substring(0, 80),
       }),
     });
@@ -142,6 +143,9 @@ export async function recordInteraction(buttonName, isMainStudy, isPrestudy) {
     localQuestion = currentQuestion.value.substring(0, 80);
     localUserAnswer = currentAnswer.value;
   }
+
+  console.log(localUserAnswer);
+
   try {
     const responseSubmit = await fetch("/submit-user-interaction", {
       method: "POST",
