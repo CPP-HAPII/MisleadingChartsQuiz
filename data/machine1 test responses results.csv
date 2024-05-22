@@ -1,0 +1,851 @@
+user_id,question_id,question,user_answer,is_correct,timestamp
+1,8,"1. On January 9, there were about 245,000 new COVID cases.",TRUE,1,25:55.6
+1,43,2. No vaccines had been administered at the beginning of February.,FALSE,1,26:06.8
+1,32,3. The day with the lowest number of COVID-related deaths in California in January was near the begi,FALSE,0,26:22.2
+1,19,4. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,26:31.2
+1,26,5. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,26:51.2
+1,30,6. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,26:59.9
+1,48,7. Vaccines had been administered before March (according to the chart).,FALSE,0,27:05.4
+1,1,"8. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",TRUE,0,27:14.8
+1,9,"9. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",TRUE,1,27:23.1
+1,29,10. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,27:47.7
+1,47,11. Vaccines began getting administered in March (according to the chart).,TRUE,0,27:55.2
+1,15,"12. In March, more than double the amount of people became fully vaccinated as compared to the amoun",TRUE,0,28:09.6
+1,34,13. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,28:25.8
+1,10,"14. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,0",FALSE,0,28:42.3
+1,12,"15. By May, about a quarter of the U.S. population was fully vaccinated.",TRUE,0,28:51.2
+1,23,16. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,29:01.2
+1,38,17. There were less COVID-related deaths in California in the second half of the month than the firs,FALSE,1,29:32.9
+1,42,"18. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,30:06.1
+1,7,"19. Between January 9 and January 10, there were less than 5 new COVID cases.",FALSE,1,30:22.1
+1,27,20. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,30:46.0
+1,37,21. There were less COVID-related deaths in California in the first half of the month than the secon,TRUE,1,31:04.5
+1,6,"22. On January 12, there were about 250 new cases.",TRUE,0,31:14.7
+1,4,"23. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,31:24.3
+1,24,24. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,31:45.9
+1,2,"25. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,31:51.8
+1,20,26. January was the month with the least amount of full vaccinations completed.,TRUE,1,32:02.1
+1,28,27. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,32:26.0
+1,31,28. The day with the lowest number of COVID-related deaths in California in January was near the end,FALSE,1,32:47.6
+1,17,29. More people became fully vaccinated in July than in February.,TRUE,1,32:57.2
+1,25,30. There were around the same number of people in California hospitalized from COVID on April 11 in,TRUE,0,33:13.8
+1,49,31. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,33:23.0
+1,5,"32. From January 7 to January 17, the number of new cases generally declined.",FALSE,0,33:34.7
+1,11,33. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,33:47.0
+1,33,34. The day with the highest number of COVID-related deaths in California in January was in the firs,FALSE,1,33:56.4
+1,22,35. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,34:14.3
+1,18,36. More people became fully vaccinated in October than in January.,TRUE,0,34:20.6
+1,21,37. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,TRUE,0,34:29.6
+1,13,"38. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,34:35.9
+1,39,39. The number of COVID-related deaths in California in January were trending upwards overall as tim,FALSE,0,34:42.7
+1,41,40. No vaccines had been administered at the beginning of January.,FALSE,1,34:54.4
+1,46,41. Vaccines were administered in February.,FALSE,0,34:58.8
+1,14,"42. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",FALSE,1,35:25.1
+1,35,43. There were more COVID-related deaths in California in the first half of the month than the secon,FALSE,1,35:36.8
+1,45,44. Vaccines were administered in January.,TRUE,1,35:41.5
+1,3,"45. On January 16th, the number of new cases was about half that of the day before.",TRUE,0,35:48.2
+1,36,46. There were more COVID-related deaths in California in the second half of the month than the firs,TRUE,1,36:00.2
+1,16,"47. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",TRUE,1,36:13.6
+1,44,"48. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,36:22.6
+1,40,49. The number of COVID-related deaths in California in January were trending downwards overall as t,FALSE,1,36:31.2
+1,50,"50. The total number of vaccines administered at the beginning of March was around 100,000.",TRUE,1,36:39.5
+3,15,"1. In March, more than double the amount of people became fully vaccinated as compared to the amount",FALSE,1,21:42.2
+3,35,2. There were more COVID-related deaths in California in the first half of the month than the second,FALSE,1,23:00.7
+3,47,3. Vaccines began getting administered in March (according to the chart).,FALSE,1,23:50.6
+3,37,4. There were less COVID-related deaths in California in the first half of the month than the second,TRUE,1,24:04.9
+3,43,5. No vaccines had been administered at the beginning of February.,FALSE,1,24:32.8
+3,33,6. The day with the highest number of COVID-related deaths in California in January was in the first,FALSE,1,25:08.1
+3,12,"7. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,25:52.3
+3,11,8. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,26:55.3
+3,3,"9. On January 16th, the number of new cases was about half that of the day before.",FALSE,1,27:37.8
+3,29,10. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,28:26.4
+3,16,"11. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",TRUE,1,28:52.2
+3,39,12. The number of COVID-related deaths in California in January were trending upwards overall as tim,TRUE,1,29:28.3
+3,10,"13. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,0",TRUE,1,30:31.2
+3,22,14. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,30:53.7
+3,50,"15. The total number of vaccines administered at the beginning of March was around 100,000.",FALSE,0,31:24.7
+3,36,16. There were more COVID-related deaths in California in the second half of the month than the firs,TRUE,1,31:45.3
+3,28,17. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,33:17.3
+3,38,18. There were less COVID-related deaths in California in the second half of the month than the firs,FALSE,1,33:45.8
+3,5,"19. From January 7 to January 17, the number of new cases generally declined.",TRUE,1,34:40.7
+3,26,20. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,35:12.6
+3,30,21. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,35:43.8
+3,8,"22. On January 9, there were about 245,000 new COVID cases.",TRUE,1,36:29.0
+3,17,23. More people became fully vaccinated in July than in February.,TRUE,1,38:09.2
+3,1,"24. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",FALSE,1,38:19.8
+3,48,25. Vaccines had been administered before March (according to the chart).,TRUE,1,38:38.4
+3,31,26. The day with the lowest number of COVID-related deaths in California in January was near the end,FALSE,1,39:03.2
+3,49,27. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,39:10.6
+3,34,28. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,39:26.4
+3,20,29. January was the month with the least amount of full vaccinations completed.,TRUE,1,39:52.4
+3,14,"30. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",FALSE,1,40:42.0
+3,4,"31. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,41:08.9
+3,46,32. Vaccines were administered in February.,TRUE,1,41:38.4
+3,32,33. The day with the lowest number of COVID-related deaths in California in January was near the beg,TRUE,1,41:49.7
+3,42,"34. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,42:44.1
+3,40,35. The number of COVID-related deaths in California in January were trending downwards overall as t,FALSE,1,43:24.2
+3,27,36. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,TRUE,1,44:02.1
+3,9,"37. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",FALSE,0,44:17.3
+3,7,"38. Between January 9 and January 10, there were less than 5 new COVID cases.",FALSE,1,44:36.5
+3,45,39. Vaccines were administered in January.,TRUE,1,45:04.9
+3,23,40. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,45:47.0
+3,6,"41. On January 12, there were about 250 new cases.",FALSE,1,45:57.5
+3,21,42. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,TRUE,0,46:37.9
+3,13,"43. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,46:52.6
+3,44,"44. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,47:33.4
+3,19,45. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,48:14.9
+3,24,46. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,48:36.6
+3,2,"47. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,49:05.5
+3,25,48. There were around the same number of people in California hospitalized from COVID on April 11 in,FALSE,1,49:38.6
+3,41,49. No vaccines had been administered at the beginning of January.,FALSE,1,50:07.3
+3,18,50. More people became fully vaccinated in October than in January.,TRUE,0,50:30.4
+4,12,"1. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,25:14.9
+4,14,"2. In June, half as many people became fully vaccinated as compared to the amount of people vaccinat",FALSE,1,25:37.5
+4,26,3. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,26:22.7
+4,4,"4. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,26:45.6
+4,27,5. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,27:23.6
+4,6,"6. On January 12, there were about 250 new cases.",FALSE,1,27:41.7
+4,10,"7. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,00",TRUE,1,27:55.4
+4,40,8. The number of COVID-related deaths in California in January were trending downwards overall as ti,FALSE,1,28:49.2
+4,43,9. No vaccines had been administered at the beginning of February.,FALSE,1,29:03.4
+4,39,10. The number of COVID-related deaths in California in January were trending upwards overall as tim,FALSE,0,29:16.1
+4,47,11. Vaccines began getting administered in March (according to the chart).,TRUE,0,29:22.2
+4,22,12. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,29:38.6
+4,1,"13. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",FALSE,1,30:24.9
+4,31,14. The day with the lowest number of COVID-related deaths in California in January was near the end,TRUE,0,30:34.1
+4,9,"15. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",FALSE,0,30:52.0
+4,28,16. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,31:55.8
+4,30,17. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,FALSE,0,32:19.9
+4,36,18. There were more COVID-related deaths in California in the second half of the month than the firs,TRUE,1,32:26.1
+4,42,"19. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,32:50.3
+4,49,20. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,32:59.3
+4,25,21. There were around the same number of people in California hospitalized from COVID on April 11 in,TRUE,0,33:50.0
+4,19,22. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,33:58.5
+4,21,23. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,TRUE,0,34:21.7
+4,23,24. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,34:56.4
+4,8,"25. On January 9, there were about 245,000 new COVID cases.",FALSE,0,35:09.2
+4,3,"26. On January 16th, the number of new cases was about half that of the day before.",TRUE,0,35:21.2
+4,37,27. There were less COVID-related deaths in California in the first half of the month than the secon,TRUE,1,35:28.4
+4,20,28. January was the month with the least amount of full vaccinations completed.,TRUE,1,35:36.6
+4,34,29. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,35:42.2
+4,7,"30. Between January 9 and January 10, there were less than 5 new COVID cases.",FALSE,1,35:48.7
+4,15,"31. In March, more than double the amount of people became fully vaccinated as compared to the amoun",FALSE,1,36:01.5
+4,17,32. More people became fully vaccinated in July than in February.,TRUE,1,36:10.3
+4,44,"33. Around 4,500,000 total vaccines had been administered at the beginning of February.",FALSE,0,36:21.1
+4,24,34. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,36:31.6
+4,41,35. No vaccines had been administered at the beginning of January.,TRUE,0,36:37.5
+4,13,"36. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,36:46.2
+4,11,37. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,36:57.9
+4,45,38. Vaccines were administered in January.,FALSE,0,37:02.5
+4,5,"39. From January 7 to January 17, the number of new cases generally declined.",FALSE,0,37:11.6
+4,2,"40. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,37:25.8
+4,32,41. The day with the lowest number of COVID-related deaths in California in January was near the beg,FALSE,0,37:49.6
+4,50,"42. The total number of vaccines administered at the beginning of March was around 100,000.",FALSE,0,37:57.6
+4,48,43. Vaccines had been administered before March (according to the chart).,FALSE,0,38:06.8
+4,18,44. More people became fully vaccinated in October than in January.,TRUE,0,38:17.2
+4,29,45. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,38:45.0
+4,33,46. The day with the highest number of COVID-related deaths in California in January was in the firs,FALSE,1,38:52.9
+4,38,47. There were less COVID-related deaths in California in the second half of the month than the firs,FALSE,1,39:01.6
+4,16,"48. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",TRUE,1,39:13.3
+4,46,49. Vaccines were administered in February.,FALSE,0,39:24.9
+4,35,50. There were more COVID-related deaths in California in the first half of the month than the secon,FALSE,1,39:37.2
+7,21,1. There were around 3500 people in California hospitalized from COVID in the beginning of April 202,TRUE,0,26:30.2
+7,28,2. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,27:05.4
+7,45,3. Vaccines were administered in January.,TRUE,1,27:17.3
+7,41,4. No vaccines had been administered at the beginning of January.,FALSE,1,27:25.5
+7,2,"5. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,27:39.5
+7,10,"6. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,00",TRUE,1,27:58.9
+7,30,7. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,28:21.7
+7,39,8. The number of COVID-related deaths in California in January were trending upwards overall as time,TRUE,1,29:04.6
+7,24,9. There were around 1200 people in California hospitalized from COVID in the beginning of April 202,FALSE,1,29:23.4
+7,11,10. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,29:46.5
+7,17,11. More people became fully vaccinated in July than in February.,TRUE,1,30:00.5
+7,14,"12. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",FALSE,1,30:30.5
+7,12,"13. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,30:44.8
+7,27,14. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,31:11.1
+7,34,15. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,31:36.1
+7,43,16. No vaccines had been administered at the beginning of February.,FALSE,1,31:49.7
+7,22,17. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,32:00.9
+7,15,"18. In March, more than double the amount of people became fully vaccinated as compared to the amoun",FALSE,1,32:14.8
+7,3,"19. On January 16th, the number of new cases was about half that of the day before.",TRUE,0,32:46.7
+7,47,20. Vaccines began getting administered in March (according to the chart).,TRUE,0,32:54.6
+7,18,21. More people became fully vaccinated in October than in January.,TRUE,0,33:00.9
+7,20,22. January was the month with the least amount of full vaccinations completed.,TRUE,1,33:09.6
+7,4,"23. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,33:26.4
+7,48,24. Vaccines had been administered before March (according to the chart).,TRUE,1,33:34.8
+7,1,"25. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",FALSE,1,33:43.4
+7,49,26. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,34:00.8
+7,50,"27. The total number of vaccines administered at the beginning of March was around 100,000.",FALSE,0,34:14.8
+7,7,"28. Between January 9 and January 10, there were less than 5 new COVID cases.",TRUE,0,34:23.7
+7,16,"29. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",TRUE,1,34:37.7
+7,31,30. The day with the lowest number of COVID-related deaths in California in January was near the end,FALSE,1,35:02.8
+7,9,"31. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",TRUE,1,35:11.8
+7,37,32. There were less COVID-related deaths in California in the first half of the month than the secon,FALSE,0,35:42.6
+7,13,"33. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,35:53.6
+7,46,34. Vaccines were administered in February.,FALSE,0,35:59.9
+7,6,"35. On January 12, there were about 250 new cases.",TRUE,0,36:11.0
+7,32,36. The day with the lowest number of COVID-related deaths in California in January was near the beg,TRUE,1,36:23.3
+7,33,37. The day with the highest number of COVID-related deaths in California in January was in the firs,FALSE,1,36:31.1
+7,38,38. There were less COVID-related deaths in California in the second half of the month than the firs,FALSE,1,36:40.3
+7,36,39. There were more COVID-related deaths in California in the second half of the month than the firs,TRUE,1,36:56.2
+7,19,40. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,37:01.9
+7,26,41. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,37:26.0
+7,23,42. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,37:35.6
+7,42,"43. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,37:49.0
+7,8,"44. On January 9, there were about 245,000 new COVID cases.",TRUE,1,37:57.1
+7,5,"45. From January 7 to January 17, the number of new cases generally declined.",TRUE,1,38:20.4
+7,29,46. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,38:33.1
+7,40,47. The number of COVID-related deaths in California in January were trending downwards overall as t,FALSE,1,38:39.7
+7,25,48. There were around the same number of people in California hospitalized from COVID on April 11 in,TRUE,0,38:51.1
+7,35,49. There were more COVID-related deaths in California in the first half of the month than the secon,FALSE,1,39:09.2
+7,44,"50. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,39:15.9
+8,3,"1. On January 16th, the number of new cases was about half that of the day before.",FALSE,1,17:01.7
+8,41,2. No vaccines had been administered at the beginning of January.,FALSE,1,17:11.1
+8,17,3. More people became fully vaccinated in July than in February.,FALSE,0,17:23.8
+8,13,"4. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,17:29.1
+8,39,5. The number of COVID-related deaths in California in January were trending upwards overall as time,FALSE,0,17:53.9
+8,12,"6. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,18:07.1
+8,45,7. Vaccines were administered in January.,TRUE,1,18:12.8
+8,30,8. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,18:41.1
+8,47,9. Vaccines began getting administered in March (according to the chart).,FALSE,1,18:49.0
+8,37,10. There were less COVID-related deaths in California in the first half of the month than the secon,TRUE,1,19:01.1
+8,26,11. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,19:24.2
+8,29,12. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,19:41.3
+8,49,13. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,19:52.8
+8,16,"14. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",FALSE,0,20:17.3
+8,2,"15. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,20:32.7
+8,32,16. The day with the lowest number of COVID-related deaths in California in January was near the beg,TRUE,1,20:46.6
+8,34,17. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,20:53.7
+8,1,"18. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",FALSE,1,21:00.9
+8,42,"19. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,21:09.5
+8,20,20. January was the month with the least amount of full vaccinations completed.,TRUE,1,21:14.4
+8,4,"21. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,21:24.0
+8,15,"22. In March, more than double the amount of people became fully vaccinated as compared to the amoun",FALSE,1,21:39.1
+8,36,23. There were more COVID-related deaths in California in the second half of the month than the firs,TRUE,1,21:45.1
+8,33,24. The day with the highest number of COVID-related deaths in California in January was in the firs,FALSE,1,21:51.0
+8,6,"25. On January 12, there were about 250 new cases.",TRUE,0,22:01.9
+8,8,"26. On January 9, there were about 245,000 new COVID cases.",TRUE,1,22:17.0
+8,43,27. No vaccines had been administered at the beginning of February.,FALSE,1,22:26.0
+8,7,"28. Between January 9 and January 10, there were less than 5 new COVID cases.",FALSE,1,22:34.9
+8,38,29. There were less COVID-related deaths in California in the second half of the month than the firs,TRUE,0,22:41.4
+8,18,30. More people became fully vaccinated in October than in January.,TRUE,0,22:51.2
+8,9,"31. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",TRUE,1,23:11.1
+8,28,32. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,23:27.4
+8,21,33. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,TRUE,0,23:36.5
+8,5,"34. From January 7 to January 17, the number of new cases generally declined.",TRUE,1,23:46.0
+8,48,35. Vaccines had been administered before March (according to the chart).,TRUE,1,23:52.8
+8,19,36. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,23:58.3
+8,31,37. The day with the lowest number of COVID-related deaths in California in January was near the end,FALSE,1,24:03.7
+8,22,38. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,24:20.7
+8,27,39. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,24:34.1
+8,23,40. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,24:50.1
+8,50,"41. The total number of vaccines administered at the beginning of March was around 100,000.",FALSE,0,25:04.1
+8,46,42. Vaccines were administered in February.,FALSE,0,25:07.7
+8,11,43. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,25:27.3
+8,10,"44. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,0",TRUE,1,25:47.5
+8,25,45. There were around the same number of people in California hospitalized from COVID on April 11 in,TRUE,0,25:55.5
+8,44,"46. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,26:04.4
+8,35,47. There were more COVID-related deaths in California in the first half of the month than the secon,FALSE,1,26:09.1
+8,24,48. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,26:23.7
+8,40,49. The number of COVID-related deaths in California in January were trending downwards overall as t,TRUE,0,26:34.0
+8,14,"50. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",TRUE,0,26:50.0
+9,36,1. There were more COVID-related deaths in California in the second half of the month than the first,FALSE,0,31:15.5
+9,17,2. More people became fully vaccinated in July than in February.,TRUE,1,31:26.3
+9,39,3. The number of COVID-related deaths in California in January were trending upwards overall as time,FALSE,0,31:38.5
+9,5,"4. From January 7 to January 17, the number of new cases generally declined.",TRUE,1,32:00.4
+9,28,5. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,33:17.9
+9,25,6. There were around the same number of people in California hospitalized from COVID on April 11 in ,FALSE,1,33:33.6
+9,24,7. There were around 1200 people in California hospitalized from COVID in the beginning of April 202,FALSE,1,33:41.0
+9,10,"8. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,00",TRUE,1,34:02.4
+9,43,9. No vaccines had been administered at the beginning of February.,FALSE,1,34:19.4
+9,45,10. Vaccines were administered in January.,TRUE,1,34:27.2
+9,33,11. The day with the highest number of COVID-related deaths in California in January was in the firs,FALSE,1,34:57.0
+9,15,"12. In March, more than double the amount of people became fully vaccinated as compared to the amoun",FALSE,1,35:33.7
+9,11,13. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,35:48.9
+9,50,"14. The total number of vaccines administered at the beginning of March was around 100,000.",FALSE,0,36:01.9
+9,1,"15. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",FALSE,1,36:15.2
+9,19,16. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,36:25.8
+9,26,17. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,TRUE,0,36:51.5
+9,47,18. Vaccines began getting administered in March (according to the chart).,TRUE,0,37:01.3
+9,41,19. No vaccines had been administered at the beginning of January.,FALSE,1,37:06.0
+9,23,20. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,FALSE,0,37:19.5
+9,48,21. Vaccines had been administered before March (according to the chart).,TRUE,1,37:24.5
+9,37,22. There were less COVID-related deaths in California in the first half of the month than the secon,TRUE,1,37:33.7
+9,30,23. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,37:52.0
+9,4,"24. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,38:00.3
+9,46,25. Vaccines were administered in February.,FALSE,0,38:04.8
+9,42,"26. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,38:09.7
+9,31,27. The day with the lowest number of COVID-related deaths in California in January was near the end,FALSE,1,38:20.2
+9,12,"28. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,38:34.5
+9,18,29. More people became fully vaccinated in October than in January.,TRUE,0,38:41.4
+9,13,"30. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,38:52.1
+9,6,"31. On January 12, there were about 250 new cases.",TRUE,0,39:04.6
+9,49,32. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,39:12.3
+9,16,"33. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",TRUE,1,39:25.2
+9,27,34. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,40:04.1
+9,21,35. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,TRUE,0,40:14.3
+9,8,"36. On January 9, there were about 245,000 new COVID cases.",TRUE,1,40:28.1
+9,34,37. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,40:45.5
+9,14,"38. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",FALSE,1,41:06.6
+9,2,"39. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,41:16.7
+9,7,"40. Between January 9 and January 10, there were less than 5 new COVID cases.",FALSE,1,41:32.0
+9,20,41. January was the month with the least amount of full vaccinations completed.,TRUE,1,41:42.1
+9,32,42. The day with the lowest number of COVID-related deaths in California in January was near the beg,TRUE,1,41:56.0
+9,3,"43. On January 16th, the number of new cases was about half that of the day before.",TRUE,0,42:15.8
+9,40,44. The number of COVID-related deaths in California in January were trending downwards overall as t,FALSE,1,42:22.2
+9,9,"45. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",TRUE,1,42:40.3
+9,22,46. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,42:56.8
+9,35,47. There were more COVID-related deaths in California in the first half of the month than the secon,FALSE,1,43:13.2
+9,29,48. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,43:49.6
+9,38,49. There were less COVID-related deaths in California in the second half of the month than the firs,FALSE,1,44:01.2
+9,44,"50. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,44:13.8
+12,9,"1. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",TRUE,1,06:17.0
+12,29,2. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,06:46.6
+12,43,3. No vaccines had been administered at the beginning of February.,FALSE,1,07:06.0
+12,20,4. January was the month with the least amount of full vaccinations completed.,TRUE,1,08:18.2
+12,37,5. There were less COVID-related deaths in California in the first half of the month than the second,TRUE,1,09:09.9
+12,26,6. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,09:56.2
+12,17,7. More people became fully vaccinated in July than in February.,FALSE,0,10:17.4
+12,27,8. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,11:06.5
+12,30,9. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,11:40.0
+12,39,10. The number of COVID-related deaths in California in January were trending upwards overall as tim,TRUE,1,12:04.8
+12,1,"11. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",TRUE,0,12:34.3
+12,13,"12. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,12:48.8
+12,4,"13. On January 17th, the number of new cases decreased by more than half that of the day before.",TRUE,0,13:27.9
+12,47,14. Vaccines began getting administered in March (according to the chart).,TRUE,0,13:40.1
+12,19,15. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,13:50.0
+12,10,"16. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,0",TRUE,1,14:27.4
+12,36,17. There were more COVID-related deaths in California in the second half of the month than the firs,TRUE,1,14:54.1
+12,7,"18. Between January 9 and January 10, there were less than 5 new COVID cases.",TRUE,0,15:07.4
+12,40,19. The number of COVID-related deaths in California in January were trending downwards overall as t,TRUE,0,15:37.2
+12,44,"20. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,15:51.8
+12,23,21. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,16:49.6
+12,12,"22. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,17:09.9
+12,3,"23. On January 16th, the number of new cases was about half that of the day before.",TRUE,0,17:26.3
+12,8,"24. On January 9, there were about 245,000 new COVID cases.",TRUE,1,17:54.0
+12,22,25. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,18:09.6
+12,34,26. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,18:21.3
+12,49,27. The total number of vaccines administered at the beginning of March was around 0.,TRUE,0,18:38.3
+12,25,28. There were around the same number of people in California hospitalized from COVID on April 11 in,TRUE,0,19:06.2
+12,46,29. Vaccines were administered in February.,FALSE,0,19:11.9
+12,31,30. The day with the lowest number of COVID-related deaths in California in January was near the end,TRUE,0,19:22.2
+12,32,31. The day with the lowest number of COVID-related deaths in California in January was near the beg,FALSE,0,19:32.8
+12,45,32. Vaccines were administered in January.,TRUE,1,19:39.9
+12,21,33. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,19:52.1
+12,14,"34. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",TRUE,0,20:44.2
+12,5,"35. From January 7 to January 17, the number of new cases generally declined.",TRUE,1,20:54.5
+12,50,"36. The total number of vaccines administered at the beginning of March was around 100,000.",TRUE,1,21:07.2
+12,48,37. Vaccines had been administered before March (according to the chart).,TRUE,1,21:19.3
+12,33,38. The day with the highest number of COVID-related deaths in California in January was in the firs,FALSE,1,21:44.4
+12,38,39. There were less COVID-related deaths in California in the second half of the month than the firs,TRUE,0,22:05.1
+12,24,40. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,TRUE,0,22:55.0
+12,6,"41. On January 12, there were about 250 new cases.",FALSE,1,23:38.7
+12,2,"42. Between January 7th and January 8th, the number of new cases more than doubled.",TRUE,0,23:44.4
+12,41,43. No vaccines had been administered at the beginning of January.,FALSE,1,23:56.7
+12,16,"44. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",FALSE,0,24:30.9
+12,42,"45. Around 600,000 total vaccines had been administered at the beginning of January.",TRUE,1,24:46.5
+12,11,46. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,24:55.6
+12,15,"47. In March, more than double the amount of people became fully vaccinated as compared to the amoun",TRUE,0,25:14.0
+12,28,48. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,TRUE,1,25:21.3
+12,35,49. There were more COVID-related deaths in California in the first half of the month than the secon,TRUE,0,25:37.1
+12,18,50. More people became fully vaccinated in October than in January.,TRUE,0,25:55.4
+14,47,1. Vaccines began getting administered in March (according to the chart).,TRUE,0,07:07.4
+14,29,2. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,TRUE,0,07:38.6
+14,14,"3. In June, half as many people became fully vaccinated as compared to the amount of people vaccinat",FALSE,1,07:58.5
+14,26,4. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,08:50.4
+14,7,"5. Between January 9 and January 10, there were less than 5 new COVID cases.",TRUE,0,09:18.4
+14,43,6. No vaccines had been administered at the beginning of February.,FALSE,1,09:53.7
+14,34,7. The day with the highest number of COVID-related deaths in California in January was in the secon,TRUE,1,10:21.2
+14,17,8. More people became fully vaccinated in July than in February.,TRUE,1,10:27.5
+14,27,9. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,11:11.9
+14,1,"10. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",FALSE,1,11:34.3
+14,32,11. The day with the lowest number of COVID-related deaths in California in January was near the beg,TRUE,1,12:00.5
+14,49,12. The total number of vaccines administered at the beginning of March was around 0.,TRUE,0,12:09.0
+14,44,"13. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,12:21.6
+14,38,14. There were less COVID-related deaths in California in the second half of the month than the firs,FALSE,1,12:45.6
+14,36,15. There were more COVID-related deaths in California in the second half of the month than the firs,TRUE,1,12:52.4
+14,11,16. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,13:27.6
+14,23,17. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,13:45.2
+14,45,18. Vaccines were administered in January.,TRUE,1,13:54.1
+14,22,19. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,14:06.2
+14,25,20. There were around the same number of people in California hospitalized from COVID on April 11 in,TRUE,0,14:24.1
+14,12,"21. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,14:51.4
+14,31,22. The day with the lowest number of COVID-related deaths in California in January was near the end,FALSE,1,15:04.8
+14,50,"23. The total number of vaccines administered at the beginning of March was around 100,000.",FALSE,0,15:21.2
+14,6,"24. On January 12, there were about 250 new cases.",TRUE,0,15:34.5
+14,46,25. Vaccines were administered in February.,FALSE,0,15:39.4
+14,10,"26. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,0",FALSE,0,16:00.7
+14,20,27. January was the month with the least amount of full vaccinations completed.,TRUE,1,16:14.8
+14,16,"28. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",TRUE,1,16:23.0
+14,33,29. The day with the highest number of COVID-related deaths in California in January was in the firs,FALSE,1,16:40.8
+14,3,"30. On January 16th, the number of new cases was about half that of the day before.",TRUE,0,16:51.2
+14,9,"31. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",FALSE,0,17:24.7
+14,5,"32. From January 7 to January 17, the number of new cases generally declined.",TRUE,1,17:39.4
+14,41,33. No vaccines had been administered at the beginning of January.,FALSE,1,17:51.1
+14,39,34. The number of COVID-related deaths in California in January were trending upwards overall as tim,TRUE,1,18:15.5
+14,42,"35. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,18:37.4
+14,37,36. There were less COVID-related deaths in California in the first half of the month than the secon,TRUE,1,18:55.7
+14,24,37. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,19:33.7
+14,30,38. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,19:42.4
+14,8,"39. On January 9, there were about 245,000 new COVID cases.",TRUE,1,19:52.1
+14,13,"40. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,19:58.7
+14,19,41. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,20:05.7
+14,28,42. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,20:32.0
+14,21,43. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,TRUE,0,20:43.7
+14,48,44. Vaccines had been administered before March (according to the chart).,TRUE,1,20:49.7
+14,2,"45. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,21:00.7
+14,4,"46. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,21:24.9
+14,35,47. There were more COVID-related deaths in California in the first half of the month than the secon,FALSE,1,21:46.9
+14,40,48. The number of COVID-related deaths in California in January were trending downwards overall as t,FALSE,1,21:55.8
+14,15,"49. In March, more than double the amount of people became fully vaccinated as compared to the amoun",TRUE,0,22:05.2
+14,18,50. More people became fully vaccinated in October than in January.,TRUE,0,22:09.9
+16,5,"1. From January 7 to January 17, the number of new cases generally declined.",FALSE,0,29:57.5
+16,36,2. There were more COVID-related deaths in California in the second half of the month than the first,TRUE,1,30:30.2
+16,43,3. No vaccines had been administered at the beginning of February.,FALSE,1,30:40.0
+16,15,"4. In March, more than double the amount of people became fully vaccinated as compared to the amount",FALSE,1,31:33.2
+16,11,5. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,31:46.9
+16,29,6. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,32:10.7
+16,27,7. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,32:36.3
+16,31,8. The day with the lowest number of COVID-related deaths in California in January was near the end ,FALSE,1,33:04.4
+16,7,"9. Between January 9 and January 10, there were less than 5 new COVID cases.",FALSE,1,33:35.9
+16,34,10. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,34:00.2
+16,40,11. The number of COVID-related deaths in California in January were trending downwards overall as t,FALSE,1,34:07.5
+16,47,12. Vaccines began getting administered in March (according to the chart).,FALSE,1,34:25.8
+16,4,"13. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,34:34.3
+16,46,14. Vaccines were administered in February.,TRUE,1,35:04.9
+16,13,"15. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,35:17.9
+16,20,16. January was the month with the least amount of full vaccinations completed.,TRUE,1,35:37.4
+16,45,17. Vaccines were administered in January.,TRUE,1,35:45.1
+16,48,18. Vaccines had been administered before March (according to the chart).,TRUE,1,35:51.1
+16,8,"19. On January 9, there were about 245,000 new COVID cases.",TRUE,1,36:06.3
+16,16,"20. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",TRUE,1,36:24.4
+16,10,"21. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,0",FALSE,0,36:50.4
+16,17,22. More people became fully vaccinated in July than in February.,FALSE,0,37:05.8
+16,22,23. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,37:33.4
+16,44,"24. Around 4,500,000 total vaccines had been administered at the beginning of February.",FALSE,0,37:51.9
+16,41,25. No vaccines had been administered at the beginning of January.,FALSE,1,38:07.5
+16,1,"26. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",FALSE,1,38:13.9
+16,50,"27. The total number of vaccines administered at the beginning of March was around 100,000.",FALSE,0,38:49.8
+16,38,28. There were less COVID-related deaths in California in the second half of the month than the firs,FALSE,1,39:15.7
+16,33,29. The day with the highest number of COVID-related deaths in California in January was in the firs,FALSE,1,39:21.9
+16,3,"30. On January 16th, the number of new cases was about half that of the day before.",FALSE,1,39:38.5
+16,30,31. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,39:52.4
+16,24,32. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,40:04.0
+16,2,"33. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,40:28.5
+16,49,34. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,40:41.3
+16,42,"35. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,40:52.6
+16,9,"36. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",TRUE,1,41:16.6
+16,37,37. There were less COVID-related deaths in California in the first half of the month than the secon,FALSE,0,41:33.9
+16,28,38. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,TRUE,1,42:09.1
+16,26,39. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,42:35.0
+16,39,40. The number of COVID-related deaths in California in January were trending upwards overall as tim,TRUE,1,43:01.6
+16,25,41. There were around the same number of people in California hospitalized from COVID on April 11 in,FALSE,1,43:13.8
+16,19,42. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,43:26.9
+16,23,43. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,43:34.8
+16,6,"44. On January 12, there were about 250 new cases.",TRUE,0,43:45.5
+16,32,45. The day with the lowest number of COVID-related deaths in California in January was near the beg,TRUE,1,43:52.2
+16,21,46. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,TRUE,0,44:10.4
+16,12,"47. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,44:20.8
+16,35,48. There were more COVID-related deaths in California in the first half of the month than the secon,FALSE,1,44:38.0
+16,18,49. More people became fully vaccinated in October than in January.,TRUE,0,44:56.0
+16,14,"50. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",TRUE,0,45:15.7
+18,12,"1. By May, about a quarter of the U.S. population was fully vaccinated.",TRUE,0,13:16.1
+18,29,2. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,13:43.6
+18,10,"3. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,00",TRUE,1,14:21.4
+18,21,4. There were around 3500 people in California hospitalized from COVID in the beginning of April 202,TRUE,0,14:55.9
+18,37,5. There were less COVID-related deaths in California in the first half of the month than the second,FALSE,0,15:31.5
+18,9,"6. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",TRUE,1,16:03.8
+18,27,7. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,TRUE,1,16:34.6
+18,47,8. Vaccines began getting administered in March (according to the chart).,TRUE,0,16:50.3
+18,1,"9. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",FALSE,1,17:10.4
+18,26,10. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,17:58.2
+18,36,11. There were more COVID-related deaths in California in the second half of the month than the firs,TRUE,1,18:16.0
+18,44,"12. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,18:50.6
+18,42,"13. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,19:06.1
+18,49,14. The total number of vaccines administered at the beginning of March was around 0.,TRUE,0,19:16.3
+18,14,"15. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",FALSE,1,19:44.6
+18,7,"16. Between January 9 and January 10, there were less than 5 new COVID cases.",FALSE,1,20:13.6
+18,3,"17. On January 16th, the number of new cases was about half that of the day before.",TRUE,0,20:45.7
+18,50,"18. The total number of vaccines administered at the beginning of March was around 100,000.",TRUE,1,20:59.3
+18,8,"19. On January 9, there were about 245,000 new COVID cases.",TRUE,1,21:14.0
+18,30,20. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,21:32.5
+18,15,"21. In March, more than double the amount of people became fully vaccinated as compared to the amoun",FALSE,1,22:15.2
+18,23,22. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,22:37.2
+18,16,"23. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",TRUE,1,22:57.0
+18,34,24. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,23:18.2
+18,2,"25. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,23:32.2
+18,33,26. The day with the highest number of COVID-related deaths in California in January was in the firs,TRUE,0,23:48.6
+18,39,27. The number of COVID-related deaths in California in January were trending upwards overall as tim,FALSE,0,24:03.6
+18,4,"28. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,24:46.8
+18,46,29. Vaccines were administered in February.,FALSE,0,24:55.2
+18,38,30. There were less COVID-related deaths in California in the second half of the month than the firs,TRUE,0,25:10.9
+18,5,"31. From January 7 to January 17, the number of new cases generally declined.",TRUE,1,25:39.9
+18,40,32. The number of COVID-related deaths in California in January were trending downwards overall as t,FALSE,1,25:54.5
+18,24,33. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,26:30.5
+18,6,"34. On January 12, there were about 250 new cases.",TRUE,0,26:50.1
+18,22,35. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,27:08.6
+18,31,36. The day with the lowest number of COVID-related deaths in California in January was near the end,FALSE,1,28:07.6
+18,19,37. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,28:20.1
+18,25,38. There were around the same number of people in California hospitalized from COVID on April 11 in,TRUE,0,28:38.9
+18,17,39. More people became fully vaccinated in July than in February.,TRUE,1,28:57.5
+18,48,40. Vaccines had been administered before March (according to the chart).,TRUE,1,29:07.2
+18,28,41. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,29:44.2
+18,11,42. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,30:07.7
+18,32,43. The day with the lowest number of COVID-related deaths in California in January was near the beg,TRUE,1,30:25.3
+18,41,44. No vaccines had been administered at the beginning of January.,FALSE,1,30:33.7
+18,13,"45. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,30:43.5
+18,45,46. Vaccines were administered in January.,TRUE,1,30:48.1
+18,20,47. January was the month with the least amount of full vaccinations completed.,TRUE,1,31:13.9
+18,18,48. More people became fully vaccinated in October than in January.,TRUE,0,31:23.9
+18,43,49. No vaccines had been administered at the beginning of February.,FALSE,1,31:40.9
+18,35,50. There were more COVID-related deaths in California in the first half of the month than the secon,TRUE,0,31:56.3
+19,11,1. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,17:30.5
+19,23,2. There were around 2000 people in California hospitalized from COVID in the beginning of April 202,TRUE,1,18:07.8
+19,44,"3. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,18:40.6
+19,33,4. The day with the highest number of COVID-related deaths in California in January was in the first,FALSE,1,19:09.4
+19,20,5. January was the month with the least amount of full vaccinations completed.,FALSE,0,19:35.7
+19,26,6. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,20:05.9
+19,5,"7. From January 7 to January 17, the number of new cases generally declined.",TRUE,1,20:30.2
+19,49,8. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,20:46.7
+19,43,9. No vaccines had been administered at the beginning of February.,FALSE,1,20:59.2
+19,16,"10. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",TRUE,1,21:32.6
+19,46,11. Vaccines were administered in February.,FALSE,0,21:54.1
+19,37,12. There were less COVID-related deaths in California in the first half of the month than the secon,TRUE,1,22:15.8
+19,2,"13. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,22:32.6
+19,34,14. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,22:59.6
+19,39,15. The number of COVID-related deaths in California in January were trending upwards overall as tim,FALSE,0,23:23.7
+19,45,16. Vaccines were administered in January.,TRUE,1,23:39.7
+19,27,17. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,24:01.5
+19,12,"18. By May, about a quarter of the U.S. population was fully vaccinated.",TRUE,0,24:35.9
+19,21,19. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,TRUE,0,25:02.5
+19,13,"20. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,25:21.2
+19,3,"21. On January 16th, the number of new cases was about half that of the day before.",FALSE,1,25:50.0
+19,7,"22. Between January 9 and January 10, there were less than 5 new COVID cases.",TRUE,0,26:12.1
+19,14,"23. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",FALSE,1,26:29.4
+19,47,24. Vaccines began getting administered in March (according to the chart).,TRUE,0,26:47.9
+19,6,"25. On January 12, there were about 250 new cases.",TRUE,0,27:04.4
+19,32,26. The day with the lowest number of COVID-related deaths in California in January was near the beg,TRUE,1,27:27.9
+19,36,27. There were more COVID-related deaths in California in the second half of the month than the firs,TRUE,1,27:43.1
+19,41,28. No vaccines had been administered at the beginning of January.,FALSE,1,27:54.9
+19,28,29. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,28:19.0
+19,15,"30. In March, more than double the amount of people became fully vaccinated as compared to the amoun",FALSE,1,28:47.8
+19,30,31. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,29:12.3
+19,10,"32. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,0",TRUE,1,29:36.9
+19,35,33. There were more COVID-related deaths in California in the first half of the month than the secon,FALSE,1,29:54.0
+19,1,"34. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",FALSE,1,30:32.5
+19,40,35. The number of COVID-related deaths in California in January were trending downwards overall as t,FALSE,1,30:44.4
+19,29,36. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,30:56.9
+19,8,"37. On January 9, there were about 245,000 new COVID cases.",TRUE,1,31:07.7
+19,25,38. There were around the same number of people in California hospitalized from COVID on April 11 in,TRUE,0,31:22.1
+19,4,"39. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,31:48.0
+19,31,40. The day with the lowest number of COVID-related deaths in California in January was near the end,FALSE,1,32:01.9
+19,19,41. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,32:16.8
+19,22,42. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,32:31.1
+19,48,43. Vaccines had been administered before March (according to the chart).,TRUE,1,32:49.9
+19,50,"44. The total number of vaccines administered at the beginning of March was around 100,000.",TRUE,1,33:07.0
+19,24,45. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,33:31.8
+19,17,46. More people became fully vaccinated in July than in February.,TRUE,1,33:45.0
+19,42,"47. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,34:00.8
+19,18,48. More people became fully vaccinated in October than in January.,TRUE,0,34:15.1
+19,38,49. There were less COVID-related deaths in California in the second half of the month than the firs,FALSE,1,34:30.1
+19,9,"50. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",FALSE,0,35:07.4
+21,27,1. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,07:45.5
+21,2,"2. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,08:15.9
+21,16,"3. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March,",TRUE,1,08:48.7
+21,20,4. January was the month with the least amount of full vaccinations completed.,TRUE,1,09:49.5
+21,36,5. There were more COVID-related deaths in California in the second half of the month than the first,TRUE,1,10:11.5
+21,34,6. The day with the highest number of COVID-related deaths in California in January was in the secon,TRUE,1,10:22.7
+21,45,7. Vaccines were administered in January.,TRUE,1,10:31.4
+21,43,8. No vaccines had been administered at the beginning of February.,FALSE,1,10:50.1
+21,22,9. There were around 2100 people in California hospitalized from COVID in the beginning of April 202,TRUE,1,11:03.0
+21,7,"10. Between January 9 and January 10, there were less than 5 new COVID cases.",TRUE,0,11:50.6
+21,17,11. More people became fully vaccinated in July than in February.,TRUE,1,12:18.2
+21,49,12. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,12:34.2
+21,26,13. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,13:00.6
+21,3,"14. On January 16th, the number of new cases was about half that of the day before.",TRUE,0,13:15.3
+21,11,15. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,13:43.7
+21,24,16. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,14:01.3
+21,6,"17. On January 12, there were about 250 new cases.",FALSE,1,14:22.7
+21,5,"18. From January 7 to January 17, the number of new cases generally declined.",TRUE,1,14:39.0
+21,13,"19. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,14:53.3
+21,31,20. The day with the lowest number of COVID-related deaths in California in January was near the end,TRUE,0,15:03.0
+21,14,"21. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",FALSE,1,15:23.3
+21,30,22. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,15:40.4
+21,4,"23. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,16:00.2
+21,9,"24. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",TRUE,1,16:21.8
+21,37,25. There were less COVID-related deaths in California in the first half of the month than the secon,TRUE,1,16:42.7
+21,25,26. There were around the same number of people in California hospitalized from COVID on April 11 in,TRUE,0,16:51.4
+21,42,"27. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,17:09.7
+21,47,28. Vaccines began getting administered in March (according to the chart).,TRUE,0,17:13.7
+21,41,29. No vaccines had been administered at the beginning of January.,FALSE,1,17:19.5
+21,40,30. The number of COVID-related deaths in California in January were trending downwards overall as t,FALSE,1,17:28.1
+21,1,"31. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",FALSE,1,17:41.0
+21,23,32. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,17:54.9
+21,39,33. The number of COVID-related deaths in California in January were trending upwards overall as tim,TRUE,1,18:15.1
+21,10,"34. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,0",FALSE,0,18:45.2
+21,18,35. More people became fully vaccinated in October than in January.,TRUE,0,19:14.4
+21,48,36. Vaccines had been administered before March (according to the chart).,TRUE,1,19:24.1
+21,15,"37. In March, more than double the amount of people became fully vaccinated as compared to the amoun",FALSE,1,20:14.4
+21,32,38. The day with the lowest number of COVID-related deaths in California in January was near the beg,TRUE,1,20:30.6
+21,19,39. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,20:37.6
+21,28,40. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,20:54.6
+21,35,41. There were more COVID-related deaths in California in the first half of the month than the secon,FALSE,1,21:09.2
+21,8,"42. On January 9, there were about 245,000 new COVID cases.",TRUE,1,21:21.4
+21,21,43. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,TRUE,0,21:34.2
+21,46,44. Vaccines were administered in February.,TRUE,1,21:47.9
+21,29,45. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,22:01.6
+21,38,46. There were less COVID-related deaths in California in the second half of the month than the firs,FALSE,1,22:18.0
+21,33,47. The day with the highest number of COVID-related deaths in California in January was in the firs,FALSE,1,22:26.5
+21,50,"48. The total number of vaccines administered at the beginning of March was around 100,000.",FALSE,0,22:40.3
+21,12,"49. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,22:48.7
+21,44,"50. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,23:07.9
+22,47,1. Vaccines began getting administered in March (according to the chart).,TRUE,0,16:07.1
+22,38,2. There were less COVID-related deaths in California in the second half of the month than the first,FALSE,1,16:36.1
+22,16,"3. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March,",TRUE,1,17:14.3
+22,8,"4. On January 9, there were about 245,000 new COVID cases.",TRUE,1,17:40.3
+22,43,5. No vaccines had been administered at the beginning of February.,FALSE,1,17:56.9
+22,11,6. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,18:24.5
+22,20,7. January was the month with the least amount of full vaccinations completed.,TRUE,1,18:29.9
+22,24,8. There were around 1200 people in California hospitalized from COVID in the beginning of April 202,FALSE,1,19:18.0
+22,40,9. The number of COVID-related deaths in California in January were trending downwards overall as ti,FALSE,1,19:29.5
+22,39,10. The number of COVID-related deaths in California in January were trending upwards overall as tim,FALSE,0,19:43.4
+22,3,"11. On January 16th, the number of new cases was about half that of the day before.",TRUE,0,19:59.5
+22,36,12. There were more COVID-related deaths in California in the second half of the month than the firs,TRUE,1,20:14.7
+22,29,13. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,20:35.6
+22,22,14. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,20:44.7
+22,41,15. No vaccines had been administered at the beginning of January.,FALSE,1,20:50.1
+22,46,16. Vaccines were administered in February.,FALSE,0,20:55.1
+22,5,"17. From January 7 to January 17, the number of new cases generally declined.",FALSE,0,21:06.3
+22,15,"18. In March, more than double the amount of people became fully vaccinated as compared to the amoun",FALSE,1,21:25.3
+22,12,"19. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,21:46.5
+22,49,20. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,21:58.8
+22,7,"21. Between January 9 and January 10, there were less than 5 new COVID cases.",FALSE,1,22:10.0
+22,37,22. There were less COVID-related deaths in California in the first half of the month than the secon,TRUE,1,22:35.9
+22,9,"23. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",TRUE,1,23:01.1
+22,6,"24. On January 12, there were about 250 new cases.",FALSE,1,23:10.9
+22,31,25. The day with the lowest number of COVID-related deaths in California in January was near the end,FALSE,1,23:21.9
+22,23,26. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,23:38.5
+22,1,"27. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",TRUE,0,23:53.3
+22,42,"28. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,24:03.6
+22,32,29. The day with the lowest number of COVID-related deaths in California in January was near the beg,FALSE,0,24:17.2
+22,48,30. Vaccines had been administered before March (according to the chart).,TRUE,1,24:24.8
+22,26,31. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,24:36.1
+22,30,32. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,24:56.9
+22,19,33. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,25:02.3
+22,33,34. The day with the highest number of COVID-related deaths in California in January was in the firs,FALSE,1,25:18.0
+22,4,"35. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,25:26.4
+22,25,36. There were around the same number of people in California hospitalized from COVID on April 11 in,TRUE,0,25:35.0
+22,14,"37. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",FALSE,1,26:05.2
+22,28,38. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,26:18.5
+22,2,"39. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,26:26.6
+22,44,"40. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,26:46.8
+22,50,"41. The total number of vaccines administered at the beginning of March was around 100,000.",TRUE,1,26:53.8
+22,21,42. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,27:21.7
+22,27,43. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,27:32.5
+22,10,"44. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,0",FALSE,0,27:48.3
+22,34,45. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,27:59.9
+22,45,46. Vaccines were administered in January.,FALSE,0,28:04.3
+22,13,"47. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,28:14.0
+22,17,48. More people became fully vaccinated in July than in February.,FALSE,0,28:24.8
+22,35,49. There were more COVID-related deaths in California in the first half of the month than the secon,TRUE,0,28:30.9
+22,18,50. More people became fully vaccinated in October than in January.,FALSE,1,28:43.1
+24,4,"1. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,39:56.9
+24,10,"2. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,00",TRUE,1,40:32.3
+24,46,3. Vaccines were administered in February.,FALSE,0,41:30.6
+24,26,4. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,42:15.3
+24,7,"5. Between January 9 and January 10, there were less than 5 new COVID cases.",FALSE,1,42:45.8
+24,12,"6. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,43:26.3
+24,30,7. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,43:57.8
+24,43,8. No vaccines had been administered at the beginning of February.,FALSE,1,44:19.1
+24,17,9. More people became fully vaccinated in July than in February.,FALSE,0,45:03.7
+24,21,10. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,TRUE,0,45:32.3
+24,15,"11. In March, more than double the amount of people became fully vaccinated as compared to the amoun",TRUE,0,46:31.5
+24,25,12. There were around the same number of people in California hospitalized from COVID on April 11 in,TRUE,0,46:49.8
+24,38,13. There were less COVID-related deaths in California in the second half of the month than the firs,FALSE,1,48:48.8
+24,41,14. No vaccines had been administered at the beginning of January.,FALSE,1,48:55.1
+24,14,"15. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",TRUE,0,49:44.4
+24,32,16. The day with the lowest number of COVID-related deaths in California in January was near the beg,TRUE,1,49:54.2
+24,20,17. January was the month with the least amount of full vaccinations completed.,TRUE,1,50:14.5
+24,16,"18. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",FALSE,0,50:52.5
+24,34,19. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,51:42.4
+24,24,20. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,51:52.7
+24,18,21. More people became fully vaccinated in October than in January.,TRUE,0,52:10.3
+24,2,"22. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,52:33.2
+24,45,23. Vaccines were administered in January.,TRUE,1,52:37.9
+24,39,24. The number of COVID-related deaths in California in January were trending upwards overall as tim,FALSE,0,53:11.6
+24,29,25. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,53:24.0
+24,27,26. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,53:38.4
+24,11,27. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,54:06.3
+24,5,"28. From January 7 to January 17, the number of new cases generally declined.",TRUE,1,54:17.3
+24,3,"29. On January 16th, the number of new cases was about half that of the day before.",TRUE,0,54:27.0
+24,8,"30. On January 9, there were about 245,000 new COVID cases.",FALSE,0,54:48.7
+24,23,31. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,55:06.6
+24,48,32. Vaccines had been administered before March (according to the chart).,TRUE,1,55:23.9
+24,28,33. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,55:37.7
+24,36,34. There were more COVID-related deaths in California in the second half of the month than the firs,TRUE,1,55:51.7
+24,19,35. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,55:57.1
+24,37,36. There were less COVID-related deaths in California in the first half of the month than the secon,TRUE,1,56:08.3
+24,50,"37. The total number of vaccines administered at the beginning of March was around 100,000.",FALSE,0,56:23.3
+24,1,"38. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",FALSE,1,56:37.7
+24,6,"39. On January 12, there were about 250 new cases.",FALSE,1,56:59.8
+24,49,40. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,57:06.6
+24,22,41. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,57:22.1
+24,13,"42. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,57:39.9
+24,31,43. The day with the lowest number of COVID-related deaths in California in January was near the end,FALSE,1,57:49.5
+24,9,"44. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",TRUE,1,58:10.3
+24,42,"45. Around 600,000 total vaccines had been administered at the beginning of January.",TRUE,1,58:20.9
+24,47,46. Vaccines began getting administered in March (according to the chart).,TRUE,0,58:26.1
+24,33,47. The day with the highest number of COVID-related deaths in California in January was in the firs,FALSE,1,58:46.2
+24,40,48. The number of COVID-related deaths in California in January were trending downwards overall as t,FALSE,1,59:03.9
+24,35,49. There were more COVID-related deaths in California in the first half of the month than the secon,FALSE,1,59:15.2
+24,44,"50. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,59:22.9
+26,12,"1. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,35:50.3
+26,42,"2. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,36:19.3
+26,33,3. The day with the highest number of COVID-related deaths in California in January was in the first,FALSE,1,36:46.5
+26,29,4. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,37:04.7
+26,40,5. The number of COVID-related deaths in California in January were trending downwards overall as ti,FALSE,1,37:22.5
+26,23,6. There were around 2000 people in California hospitalized from COVID in the beginning of April 202,TRUE,1,37:42.8
+26,44,"7. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,38:02.5
+26,47,8. Vaccines began getting administered in March (according to the chart).,TRUE,0,38:08.9
+26,21,9. There were around 3500 people in California hospitalized from COVID in the beginning of April 202,TRUE,0,38:30.7
+26,45,10. Vaccines were administered in January.,TRUE,1,38:39.3
+26,35,11. There were more COVID-related deaths in California in the first half of the month than the secon,FALSE,1,39:16.5
+26,49,12. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,39:29.6
+26,32,13. The day with the lowest number of COVID-related deaths in California in January was near the beg,TRUE,1,39:39.5
+26,7,"14. Between January 9 and January 10, there were less than 5 new COVID cases.",TRUE,0,39:51.1
+26,3,"15. On January 16th, the number of new cases was about half that of the day before.",FALSE,1,40:11.3
+26,39,16. The number of COVID-related deaths in California in January were trending upwards overall as tim,TRUE,1,40:28.0
+26,38,17. There were less COVID-related deaths in California in the second half of the month than the firs,FALSE,1,40:33.4
+26,17,18. More people became fully vaccinated in July than in February.,TRUE,1,40:40.2
+26,22,19. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,40:54.9
+26,16,"20. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",TRUE,1,41:30.1
+26,50,"21. The total number of vaccines administered at the beginning of March was around 100,000.",FALSE,0,41:47.4
+26,24,22. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,42:10.8
+26,26,23. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,42:26.0
+26,15,"24. In March, more than double the amount of people became fully vaccinated as compared to the amoun",FALSE,1,42:36.9
+26,41,25. No vaccines had been administered at the beginning of January.,FALSE,1,42:43.8
+26,27,26. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,43:00.0
+26,43,27. No vaccines had been administered at the beginning of February.,FALSE,1,43:07.3
+26,34,28. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,43:19.8
+26,30,29. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,43:34.0
+26,14,"30. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",FALSE,1,43:44.3
+26,9,"31. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",FALSE,0,44:26.5
+26,25,32. There were around the same number of people in California hospitalized from COVID on April 11 in,TRUE,0,44:39.4
+26,2,"33. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,45:08.3
+26,31,34. The day with the lowest number of COVID-related deaths in California in January was near the end,FALSE,1,45:23.5
+26,36,35. There were more COVID-related deaths in California in the second half of the month than the firs,FALSE,0,45:45.2
+26,5,"36. From January 7 to January 17, the number of new cases generally declined.",FALSE,0,46:04.2
+26,8,"37. On January 9, there were about 245,000 new COVID cases.",TRUE,1,46:22.0
+26,1,"38. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",TRUE,0,46:30.1
+26,37,39. There were less COVID-related deaths in California in the first half of the month than the secon,TRUE,1,46:49.6
+26,28,40. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,46:59.3
+26,11,41. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,47:10.1
+26,20,42. January was the month with the least amount of full vaccinations completed.,TRUE,1,47:15.4
+26,48,43. Vaccines had been administered before March (according to the chart).,TRUE,1,47:21.8
+26,46,44. Vaccines were administered in February.,FALSE,0,47:25.6
+26,19,45. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,47:30.1
+26,18,46. More people became fully vaccinated in October than in January.,TRUE,0,47:37.9
+26,13,"47. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,48:05.7
+26,6,"48. On January 12, there were about 250 new cases.",TRUE,0,48:22.2
+26,4,"49. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,48:34.2
+26,10,"50. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,0",TRUE,1,48:43.9
+29,46,1. Vaccines were administered in February.,FALSE,0,24:28.6
+29,9,"2. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",TRUE,1,24:42.8
+29,22,3. There were around 2100 people in California hospitalized from COVID in the beginning of April 202,TRUE,1,24:53.5
+29,27,4. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,25:13.7
+29,20,5. January was the month with the least amount of full vaccinations completed.,TRUE,1,25:30.2
+29,5,"6. From January 7 to January 17, the number of new cases generally declined.",TRUE,1,25:54.9
+29,17,7. More people became fully vaccinated in July than in February.,TRUE,1,26:00.7
+29,42,"8. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,26:15.5
+29,11,9. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,26:40.0
+29,8,"10. On January 9, there were about 245,000 new COVID cases.",TRUE,1,26:46.3
+29,7,"11. Between January 9 and January 10, there were less than 5 new COVID cases.",TRUE,0,26:57.0
+29,14,"12. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",FALSE,1,27:11.7
+29,25,13. There were around the same number of people in California hospitalized from COVID on April 11 in,TRUE,0,27:24.7
+29,50,"14. The total number of vaccines administered at the beginning of March was around 100,000.",FALSE,0,27:50.6
+29,18,15. More people became fully vaccinated in October than in January.,TRUE,0,27:56.8
+29,47,16. Vaccines began getting administered in March (according to the chart).,TRUE,0,28:02.9
+29,3,"17. On January 16th, the number of new cases was about half that of the day before.",TRUE,0,28:08.6
+29,12,"18. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,28:22.0
+29,32,19. The day with the lowest number of COVID-related deaths in California in January was near the beg,TRUE,1,29:03.4
+29,43,20. No vaccines had been administered at the beginning of February.,FALSE,1,29:11.3
+29,19,21. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,29:16.1
+29,48,22. Vaccines had been administered before March (according to the chart).,TRUE,1,29:20.1
+29,30,23. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,29:32.5
+29,38,24. There were less COVID-related deaths in California in the second half of the month than the firs,FALSE,1,30:07.1
+29,4,"25. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,30:13.4
+29,1,"26. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",FALSE,1,30:25.8
+29,21,27. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,TRUE,0,30:31.7
+29,24,28. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,30:45.0
+29,39,29. The number of COVID-related deaths in California in January were trending upwards overall as tim,TRUE,1,31:14.8
+29,23,30. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,31:18.6
+29,49,31. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,31:22.2
+29,26,32. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,TRUE,0,31:30.7
+29,6,"33. On January 12, there were about 250 new cases.",TRUE,0,31:35.2
+29,36,34. There were more COVID-related deaths in California in the second half of the month than the firs,TRUE,1,31:43.4
+29,15,"35. In March, more than double the amount of people became fully vaccinated as compared to the amoun",FALSE,1,31:52.6
+29,10,"36. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,0",FALSE,0,31:59.2
+29,45,37. Vaccines were administered in January.,TRUE,1,32:03.0
+29,28,38. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,32:16.6
+29,34,39. The day with the highest number of COVID-related deaths in California in January was in the seco,FALSE,0,32:22.3
+29,33,40. The day with the highest number of COVID-related deaths in California in January was in the firs,FALSE,1,32:35.0
+29,31,41. The day with the lowest number of COVID-related deaths in California in January was near the end,FALSE,1,32:45.4
+29,2,"42. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,32:54.5
+29,13,"43. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,33:03.7
+29,41,44. No vaccines had been administered at the beginning of January.,FALSE,1,33:07.7
+29,29,45. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,33:23.4
+29,40,46. The number of COVID-related deaths in California in January were trending downwards overall as t,FALSE,1,33:49.1
+29,16,"47. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",TRUE,1,33:58.6
+29,37,48. There were less COVID-related deaths in California in the first half of the month than the secon,TRUE,1,34:25.6
+29,44,"49. Around 4,500,000 total vaccines had been administered at the beginning of February.",TRUE,1,34:29.9
+29,35,50. There were more COVID-related deaths in California in the first half of the month than the secon,FALSE,1,34:42.2
+30,25,1. There were around the same number of people in California hospitalized from COVID on April 11 in ,TRUE,0,09:31.4
+30,41,2. No vaccines had been administered at the beginning of January.,FALSE,1,09:45.9
+30,46,3. Vaccines were administered in February.,FALSE,0,09:51.9
+30,38,4. There were less COVID-related deaths in California in the second half of the month than the first,FALSE,1,10:37.5
+30,27,5. There were more people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,0,11:03.5
+30,6,"6. On January 12, there were about 250 new cases.",TRUE,0,11:17.3
+30,42,"7. Around 600,000 total vaccines had been administered at the beginning of January.",FALSE,0,11:27.8
+30,12,"8. By May, about a quarter of the U.S. population was fully vaccinated.",FALSE,1,12:00.0
+30,36,9. There were more COVID-related deaths in California in the second half of the month than the first,TRUE,1,12:23.7
+30,1,"10. According to the chart, there was a day (or days) where there were virtually no new COVID cases.",FALSE,1,12:33.2
+30,49,11. The total number of vaccines administered at the beginning of March was around 0.,FALSE,1,12:45.6
+30,43,12. No vaccines had been administered at the beginning of February.,FALSE,1,12:58.8
+30,37,13. There were less COVID-related deaths in California in the first half of the month than the secon,TRUE,1,13:30.7
+30,19,14. More than half of the U.S. population was fully vaccinated by October.,TRUE,0,13:42.8
+30,29,15. There were more people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,1,14:06.8
+30,39,16. The number of COVID-related deaths in California in January were trending upwards overall as tim,FALSE,0,14:18.0
+30,50,"17. The total number of vaccines administered at the beginning of March was around 100,000.",FALSE,0,14:41.9
+30,21,18. There were around 3500 people in California hospitalized from COVID in the beginning of April 20,TRUE,0,14:56.0
+30,16,"19. More people became fully vaccinated in the Summer (June, July, August) than in the Spring (March",TRUE,1,15:11.6
+30,45,20. Vaccines were administered in January.,TRUE,1,15:25.0
+30,34,21. The day with the highest number of COVID-related deaths in California in January was in the seco,TRUE,1,15:38.4
+30,31,22. The day with the lowest number of COVID-related deaths in California in January was near the end,FALSE,1,15:53.3
+30,4,"23. On January 17th, the number of new cases decreased by more than half that of the day before.",FALSE,1,16:29.4
+30,15,"24. In March, more than double the amount of people became fully vaccinated as compared to the amoun",FALSE,1,17:08.7
+30,13,"25. By August, at least half of the U.S. population was fully vaccinated.",TRUE,1,17:16.1
+30,33,26. The day with the highest number of COVID-related deaths in California in January was in the firs,FALSE,1,17:29.5
+30,32,27. The day with the lowest number of COVID-related deaths in California in January was near the beg,TRUE,1,17:37.8
+30,11,28. Most of the fully vaccinated population became fully vaccinated in April.,FALSE,0,17:56.0
+30,7,"29. Between January 9 and January 10, there were less than 5 new COVID cases.",TRUE,0,18:11.1
+30,9,"30. Between January 13th and January 14th, the number of new COVID cases declined by about 5,000.",TRUE,1,18:35.2
+30,47,31. Vaccines began getting administered in March (according to the chart).,TRUE,0,18:47.3
+30,30,32. There were around 1700 people in California hospitalized from COVID in the end of April 2021.,TRUE,1,19:13.4
+30,26,33. There were less people in California hospitalized from COVID on April 5 in 2020 than in 2021.,FALSE,1,19:29.8
+30,24,34. There were around 1200 people in California hospitalized from COVID in the beginning of April 20,FALSE,1,19:42.7
+30,8,"35. On January 9, there were about 245,000 new COVID cases.",TRUE,1,20:03.6
+30,14,"36. In June, half as many people became fully vaccinated as compared to the amount of people vaccina",FALSE,1,20:31.6
+30,48,37. Vaccines had been administered before March (according to the chart).,TRUE,1,20:44.3
+30,18,38. More people became fully vaccinated in October than in January.,TRUE,0,20:50.8
+30,23,39. There were around 2000 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,21:15.5
+30,10,"40. Between January 7th and January 17th, the highest daily count of new COVID cases surpassed 250,0",FALSE,0,21:36.8
+30,28,41. There were less people in California hospitalized from COVID on April 5 in 2021 than in 2020.,FALSE,0,21:57.0
+30,17,42. More people became fully vaccinated in July than in February.,TRUE,1,22:02.9
+30,40,43. The number of COVID-related deaths in California in January were trending downwards overall as t,FALSE,1,22:20.8
+30,2,"44. Between January 7th and January 8th, the number of new cases more than doubled.",FALSE,1,22:37.0
+30,5,"45. From January 7 to January 17, the number of new cases generally declined.",TRUE,1,23:02.6
+30,22,46. There were around 2100 people in California hospitalized from COVID in the beginning of April 20,TRUE,1,23:30.2
+30,3,"47. On January 16th, the number of new cases was about half that of the day before.",FALSE,1,23:53.1
+30,44,"48. Around 4,500,000 total vaccines had been administered at the beginning of February.",FALSE,0,24:41.4
+30,20,49. January was the month with the least amount of full vaccinations completed.,TRUE,1,24:52.4
+30,35,50. There were more COVID-related deaths in California in the first half of the month than the secon,FALSE,1,25:09.6
