@@ -45,7 +45,7 @@ node createTables.js
 node server.js
 ```
 
-In browser, type localhost:3000/index.html
+In browser, type localhost:3000
 
 WINDOWS:
 install MySQL installer https://dev.mysql.com/downloads/installer/
@@ -77,4 +77,7 @@ node createTables.js
 node server.js
 ```
 
-In browser, type localhost:3000/index.html
+In browser, type localhost:3000
+
+
+EYE TRACKING INSTRUCTIONS https://docs.google.com/document/d/1Cl3sjsoDIPl2Ax4fb6C5dWyy6VYoROp-l8ADww5jgOQ/edit?usp=sharing
